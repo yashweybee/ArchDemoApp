@@ -1,0 +1,3 @@
+﻿<asp:Label runat="server"  BackColor="#FF6600" BorderColor="#99CC00" BorderStyle="Solid"></asp:Label>
+
+<asp:Label  runat="server" SkinId="MySkin" BackColor="#FFFFFF" BorderColor="#990000" BorderStyle="Solid"></asp:Label>
